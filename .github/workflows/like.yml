@@ -5,4 +5,4 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - name: gotappa
-       run: echo  "success"
+       run: echo "success"
